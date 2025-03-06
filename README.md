@@ -5,7 +5,7 @@
 这是一个机器人学习笔记仓库，按品牌分类，包含技术手册、图片和学习资源。欢迎使用和贡献！
 
 ## 目录结构
-- [Brands](#robotbrands)：按品牌分类的笔记
+- [Brands](robotbrands)：按品牌分类的笔记
 - [Resources](#resources)：通用学习资源
 - [如何贡献](#contributing)
 
