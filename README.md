@@ -11,6 +11,12 @@
 
 ## Brands
 - [OMRON](robotbrands/omron)：OMRON机器人学习笔记
+- [OMRON](robotbrands/omron)：OMRON机器人学习笔记
+- [OMRON](robotbrands/omron)：OMRON机器人学习笔记
+- [OMRON](robotbrands/omron)：OMRON机器人学习笔记
+- [OMRON](robotbrands/omron)：OMRON机器人学习笔记
+- [OMRON](robotbrands/omron)：OMRON机器人学习笔记
+- [OMRON](robotbrands/omron)：OMRON机器人学习笔记
 - [BrandB](Brands/BrandB)：品牌B的机器人学习笔记
 
 ## Resources
