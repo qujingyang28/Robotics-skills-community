@@ -11,13 +11,21 @@
 
 ## Brands
 - [OMRON](robotbrands/omron)：OMRON机器人学习笔记
-- [OMRON](robotbrands/omron)：OMRON机器人学习笔记
-- [OMRON](robotbrands/omron)：OMRON机器人学习笔记
-- [OMRON](robotbrands/omron)：OMRON机器人学习笔记
-- [OMRON](robotbrands/omron)：OMRON机器人学习笔记
-- [OMRON](robotbrands/omron)：OMRON机器人学习笔记
-- [OMRON](robotbrands/omron)：OMRON机器人学习笔记
-- [BrandB](Brands/BrandB)：品牌B的机器人学习笔记
+- [ABB](robotbrands/ABB)：ABB机器人学习笔记
+- [EFORT](robotbrands/EFORT)：EFORT机器人学习笔记
+- [ESPON](robotbrands/ESPON)：ESPON机器人学习笔记
+- [ESTUN](robotbrands/ESTUN)：ESTUN机器人学习笔记
+- [FANUC](robotbrands/FANUC)：FANUC机器人学习笔记
+- [HCFA](robotbrands/HCFA)：HCFA机器人学习笔记
+- [INOVANCE](Brands/INOVANCErobot)：INOVANCErobot机器人学习笔记
+- [JAKA](robotbrands/JAKA)：JAKA机器人学习笔记
+- [KUKA](robotbrands/KUKA)：KUKA机器人学习笔记
+- [Mitsubishi](robotbrands/Mitsubishi)：Mitsubishi机器人学习笔记
+- [SINSUN DUCO](robotbrands/SINSUNSUCO)：新松多可机器人学习笔记
+- [TMrobot](robotbrands/TMrobot)：达明机器人学习笔记
+- [YAMAHA](robotbrands/UR)：YAMAHA机器人学习笔记
+
+  
 
 ## Resources
 - [ROS教程](Resources/ROS-Tutorials)
